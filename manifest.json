@@ -1,0 +1,9 @@
+{
+  "name": "Carnet",
+  "short_name": "Carnet",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#FAF7F2",
+  "icons": []
+}
